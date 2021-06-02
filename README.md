@@ -8,3 +8,5 @@ The data is nationwide, so the first step will be to filter it to just Pennsylva
 I'll be using code from the school (specifically given to us for this project), from the workbooks, as well as from Facebook's Prophet documentation.
 I'll be setting up a simple baseline model using linear regression, then move on to Auto ARIMA, then finally Prophet.
 This repository will contain the non-technical powerpoint presentation (and pdf of same), as well as the jupyter notebooks of starter code (provided by the school) and the notebook I have used to complete the project.
+The data can be found here:
+https://www.zillow.com/research/data/
